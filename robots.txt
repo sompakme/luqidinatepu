@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://luqidinatepu.pages.dev/sitemap.xml
